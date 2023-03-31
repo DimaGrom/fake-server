@@ -2,11 +2,15 @@
 	"users": [
 		{
 			"id": 1,
-			"name": "Anna"
+			"name": "Anna",
+			"password": "123",
+			"favoritFilms": []
 		},
 		{
 			"id": 2,
-			"name": "Ellena"
+			"name": "Ellena",
+			"password": "123",
+			"favoritFilms": []
 		}
 	]
 }
